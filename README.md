@@ -56,7 +56,7 @@ language.
 
 ### Anti-patterns
 
-* [panic::catch_unwind for exceptions](anti_patterns/catch_panic.md)
+* [catch_unwind for exceptions](anti_patterns/catch_panic.md)
 * TODO Clone to satisfy the borrow checker
 * [Deref polymorphism](anti_patterns/deref.md)
 * TODO Matching all fields of a struct (back compat)
