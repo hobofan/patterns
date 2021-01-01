@@ -28,5 +28,6 @@
     - [Visitor](./patterns/visitor.md)
 
 - [Anti-patterns](./anti_patterns/README.md)
+    - [Clone to satisfy the borrow checker](./anti_patterns/borrow_clone.md)
     - [`#[deny(warnings)]`](./anti_patterns/deny-warnings.md)
     - [Deref Polymorphism](./anti_patterns/deref.md)
